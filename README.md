@@ -1,4 +1,4 @@
-# Exp-01 COLOR_CONVERSIONS_OF-IMAGE
+# Exp-01 COLOR CONVERSIONS OF IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
 
